@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="bitcoin">
+    <output-path>$PROJECT_DIR$/out/artifacts/bitcoin</output-path>
+    <root id="root" />
+  </artifact>
+</component>
