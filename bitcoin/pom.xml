@@ -19,6 +19,12 @@
             <groupId>com.mootal</groupId>
             <version>1.0.0.RELEASE</version>
         </dependency>
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-api</artifactId>
+            <version>8.0.1</version>
+            <scope>provided</scope>
+        </dependency>
     </dependencies>
 
 </project>
